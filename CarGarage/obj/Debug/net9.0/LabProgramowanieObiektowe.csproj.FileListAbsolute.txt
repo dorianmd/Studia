@@ -1,0 +1,15 @@
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\bin\Debug\net9.0\LabProgramowanieObiektowe.exe
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\bin\Debug\net9.0\LabProgramowanieObiektowe.deps.json
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\bin\Debug\net9.0\LabProgramowanieObiektowe.runtimeconfig.json
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\bin\Debug\net9.0\LabProgramowanieObiektowe.dll
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\bin\Debug\net9.0\LabProgramowanieObiektowe.pdb
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\LabProgramowanieObiektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\LabProgramowanieObiektowe.AssemblyInfoInputs.cache
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\LabProgramowanieObiektowe.AssemblyInfo.cs
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\LabProgramowanieObiektowe.csproj.CoreCompileInputs.cache
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\LabProgramowanieObiektowe.sourcelink.json
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\LabProgramowanieObiektowe.dll
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\refint\LabProgramowanieObiektowe.dll
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\LabProgramowanieObiektowe.pdb
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\LabProgramowanieObiektowe.genruntimeconfig.cache
+C:\Users\Dorian M\RiderProjects\LabProgramowanieObiektowe\LabProgramowanieObiektowe\obj\Debug\net9.0\ref\LabProgramowanieObiektowe.dll
